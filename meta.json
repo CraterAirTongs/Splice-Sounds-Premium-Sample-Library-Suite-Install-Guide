@@ -1,0 +1,23 @@
+{
+  "repo": "splice-sounds-premium-sample-library-suite-install-guide",
+  "product": "Splice Sounds Premium Sample Library Suite Install Guide",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "audio",
+  "topics": [
+    "splice-sounds",
+    "sample-credits",
+    "loop-packs",
+    "creator-library",
+    "daw-integration",
+    "splice-setup-failed-fix",
+    "how-to-install-splice",
+    "splice-windows",
+    "splice-desktop-2026",
+    "splice-desktop-package"
+  ],
+  "site": "toolix.me"
+}
